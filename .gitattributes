@@ -1,6 +1,1 @@
-* text=auto
-*.css linguist-vendored
-*.scss linguist-vendored
-*.js linguist-vendored
-*.rb linguist-language=php
-CHANGELOG.md export-ignore
+.css linguist-language=PHP
