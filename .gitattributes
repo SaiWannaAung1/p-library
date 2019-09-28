@@ -1,6 +1,2 @@
-* text=auto
-*.css linguist-vendored
-*.scss linguist-vendored
-*.js linguist-vendored
 .PHP linguist-language=PHP
 CHANGELOG.md export-ignore
