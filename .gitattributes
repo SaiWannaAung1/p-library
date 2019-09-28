@@ -1,2 +1,2 @@
-.PHP linguist-language=PHP
+*.gs linguist-language=PHP
 CHANGELOG.md export-ignore
