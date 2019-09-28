@@ -1,2 +1,3 @@
-*.gs linguist-language=PHP
+* text=auto
+*.php linguist-vendored
 CHANGELOG.md export-ignore
